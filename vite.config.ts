@@ -8,9 +8,3 @@ export default defineConfig({
     tailwindcss(),
   ],
 });
-
-      strict: true,
-      deny: ["**/.*"],
-    },
-  },
-});
